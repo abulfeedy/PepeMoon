@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* @import "tailwindcss/preflight";
+
+@import "tailwindcss/utilities";
+
+@layer base {
+  body {
+    background-color: #03133f
+
+    ; 
+    min-height: 100vh; 
+  }
+}
+
+@layer utilities {
+  .font-lobster {
+    font-family: 'Lobster', cursive;
+  }
+  .font-poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+} */
